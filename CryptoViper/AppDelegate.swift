@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  CryptoViper
-//
-//  Created by Murathan karagöz on 23.08.2023.
-//
+
 
 import UIKit
 
